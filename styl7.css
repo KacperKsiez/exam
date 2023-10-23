@@ -34,10 +34,6 @@ main {
 	float: left;
 }
 
-.klasa{
-	border-color: aqua;
-}
-
 main img {
 	padding: 3px;
 	border: dashed blue 1px;
@@ -54,8 +50,4 @@ main img {
 
 footer {
 	clear: both;
-}
-
-.klasa {
-	background-color: red;
 }
