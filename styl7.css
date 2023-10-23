@@ -51,3 +51,7 @@ main img {
 footer {
 	clear: both;
 }
+
+.klasa {
+	background-color: red;
+}
